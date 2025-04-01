@@ -48,6 +48,7 @@
 - SteamGriddb
 - Nvidia
 - GooglePlay
+- Ubisoft
 ## Прочее
 - CloudFlare
 - ProstoVPN

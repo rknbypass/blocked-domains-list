@@ -42,6 +42,7 @@
 - Arhivach
 - Habr
 - Openode
+- 4pda
 ## Гейминг
 - xbox (sv-se)
 - EpicGames

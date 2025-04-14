@@ -57,3 +57,6 @@
 - Telegraph
 - DeviantArt
 - Metacritic
+- PhareIO
+- GitBook
+- Arc

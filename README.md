@@ -19,6 +19,7 @@
 - i.supa.codes & kappa.lol & gachi.gay & femboy.beauty
 - hostingkartinok.com
 - prnt.sc
+- dropbox
 ## Торренты и варезные ресурсы
 - 1337x
 - Rutracker
@@ -43,6 +44,7 @@
 - Habr
 - Openode
 - 4pda
+- winitpro
 ## Гейминг
 - xbox (sv-se)
 - EpicGames

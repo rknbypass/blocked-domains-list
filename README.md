@@ -44,7 +44,6 @@
 - Habr
 - Openode
 - 4pda
-- winitpro
 ## Гейминг
 - xbox (sv-se)
 - EpicGames
@@ -60,5 +59,3 @@
 - DeviantArt
 - Metacritic
 - PhareIO
-- GitBook
-- Arc

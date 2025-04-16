@@ -71,6 +71,7 @@ domain:easyanticheat.net
 domain:epicgames.com
 domain:epicgames.dev
 domain:epicgamescdn.com
+domain:ext-twitch.tv
 domain:fab.com
 domain:facebook.com
 domain:fb.com
@@ -155,10 +156,12 @@ domain:intagram.com
 domain:intagrm.com
 domain:intgram.com
 domain:island-of-pleasure.site
+domain:jtvnw.net
 domain:kappa.lol
 domain:kingstagram.com
 domain:kinozal.tv
 domain:linktr.ee
+domain:live-video.net
 domain:lnstagram-help.com
 domain:media.discordapp.net
 domain:messenger.com
@@ -217,10 +220,14 @@ domain:temp-mail.org
 domain:theinstagramhack.com
 domain:thepiratebay.org
 domain:threads.net
+domain:ttvnw.net
 domain:turn.livekit.cloud
 domain:tweetdeck.com
 domain:twimg.com
 domain:twinmotion.com
+domain:twitch.tv
+domain:twitchcdn.net
+domain:twitchsvc.net
 domain:twitpic.com
 domain:twitter.biz
 domain:twitter.com

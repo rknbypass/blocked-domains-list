@@ -9,7 +9,7 @@
 - YouTube & Google Video
 - SoundCloud
 - Spotify
-- Twitch & 7TV & FrankerFaceZ
+- 7TV & FrankerFaceZ
 - PornHUB
 - Xfree
 ## Облачные хранилища и файлообменники

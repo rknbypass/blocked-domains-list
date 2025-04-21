@@ -1,18 +1,22 @@
-# blocked-domains-list
-## Социальные сети и мессенджеры
+## Что за файлы?
+**list** – список неработающих ресурсов для проксирования.
+**CF IPs-v4** – список IPv4 адресов CloudFlare.
+
+## Внутри **list**
+### Социальные сети и мессенджеры
 - Instagram & Threads
 - Facebook & Messenger
 - Twitter & X
 - Discord
 - Notion
-## Потоковый контент
+### Потоковый контент
 - YouTube & Google Video
 - SoundCloud
 - Spotify
 - 7TV & FrankerFaceZ
 - PornHUB
 - Xfree
-## Облачные хранилища и файлообменники
+### Облачные хранилища и файлообменники
 - 1Fichier
 - Gofile
 - Google Cloud Storage
@@ -20,7 +24,7 @@
 - hostingkartinok.com
 - prnt.sc
 - dropbox
-## Торренты и варезные ресурсы
+### Торренты и варезные ресурсы
 - 1337x
 - Rutracker
 - Rutor
@@ -30,28 +34,28 @@
 - dodi-repacks
 - kinozal
 - island-of-pleasure
-## ИИ
+### ИИ
 - OpenAI & ChatGPT
 - Google Gemin
 - Microsoft Copilot
-## Онлайн-сервисы и маркетинг
+### Онлайн-сервисы и маркетинг
 - Linktree
 - Patreon
 - Temp Mail
-## Форумы
+### Форумы
 - ntc.party
 - Arhivach
 - Habr
 - Openode
 - 4pda
-## Гейминг
+### Гейминг
 - xbox (sv-se)
 - EpicGames
 - SteamGriddb
 - Nvidia
 - GooglePlay
 - Ubisoft
-## Прочее
+### Прочее
 - CloudFlare
 - ProstoVPN
 - clck

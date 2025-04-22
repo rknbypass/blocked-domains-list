@@ -14,7 +14,7 @@
 - YouTube & Google Video
 - SoundCloud
 - Spotify
-- 7TV & FrankerFaceZ
+- Twitch  7TV & FrankerFaceZ
 - PornHUB
 - Xfree
 ### Облачные хранилища и файлообменники
@@ -56,6 +56,7 @@
 - Nvidia
 - GooglePlay
 - Ubisoft
+- Logitech
 ### Прочее
 - CloudFlare
 - ProstoVPN

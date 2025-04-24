@@ -54,6 +54,7 @@
 - EpicGames
 - SteamGriddb
 - Nvidia
+- AMD & Radeon
 - GooglePlay
 - Ubisoft
 - Logitech

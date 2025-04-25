@@ -1,4 +1,5 @@
-![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://avatars.githubusercontent.com/u/205839182?s=400&u=6e215ed93ca5c973f3611a33135fb03ad4e199ee&v=4) "a title")
+![Logo](https://media.discordapp.net/attachments/1287824720246341714/1365383255829778543/bf29cf03-9b12-4103-b227-bd55e0074154.png?ex=680d1bbf&is=680bca3f&hm=5a698444d5eedd29efcbcdb6dcb999fec83a2f06594031b59c1f11dc851dded6&=&width=851&height=851)
+
 ## Что за файлы?
 **list** – список неработающих ресурсов для проксирования.  
 

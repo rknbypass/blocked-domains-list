@@ -1,4 +1,4 @@
-![Logo](https://media.discordapp.net/attachments/1287824720246341714/1365385356882612335/bf29cf03-9b12-4103-b227-bd55e0074154.png?ex=680d1db4&is=680bcc34&hm=5730a11b6fc6b4aa6a3c8a351934c08be4b186b0e254b22caac93a2b4725c1ab&=)
+![Logo](https://media.discordapp.net/attachments/1287824720246341714/1365385813726204035/freeinternet.png?ex=680d1e21&is=680bcca1&hm=dcea81344948325726b47880bf0744691fbf83d016b7297e6708043068ae1184&=)
 
 ## Что за файлы?
 **list** – список неработающих ресурсов для проксирования.  

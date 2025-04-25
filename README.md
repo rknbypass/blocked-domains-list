@@ -1,3 +1,4 @@
+![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://avatars.githubusercontent.com/u/205839182?s=400&u=6e215ed93ca5c973f3611a33135fb03ad4e199ee&v=4) "a title")
 ## Что за файлы?
 **list** – список неработающих ресурсов для проксирования.  
 

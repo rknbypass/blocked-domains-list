@@ -58,7 +58,6 @@
 - Nvidia
 - AMD & Radeon
 - GooglePlay
-- Ubisoft
 - Logitech
 ### Прочее
 - CloudFlare

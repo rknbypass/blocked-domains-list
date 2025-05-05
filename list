@@ -22,6 +22,8 @@ domain:arhivach.xyz
 domain:auth.openai.com
 domain:auth0.openai.com
 domain:aws.amazon.com
+domain:backloggd-static-assets.b-cdn.net
+domain:backloggd.b-cdn.net
 domain:backloggd.com
 domain:bard.google.com
 domain:bookstagram.com
@@ -30,6 +32,7 @@ domain:cdn.7tv.app
 domain:cdn.discordapp.com
 domain:cdn.frankerfacez.com
 domain:cdn.iframe.ly
+domain:cdn.intergient.com
 domain:cdn.mos.cms.futurecdn.net
 domain:cdninstagram.com
 domain:chat.com

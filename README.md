@@ -59,6 +59,7 @@
 - AMD & Radeon
 - GooglePlay
 - Logitech
+- Backloggd
 ### Прочее
 - CloudFlare
 - ProstoVPN

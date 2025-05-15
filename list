@@ -179,6 +179,8 @@ domain:media.fastdl.app
 domain:messenger.com
 domain:metacritic.com
 domain:mos.cms.futurecdn.net
+domain:nexus-cdn.com
+domain:nexusmods.com
 domain:nhacmp3youtube.com
 domain:nnmclub.to
 domain:notion-static.com
@@ -217,6 +219,7 @@ domain:spotify.com
 domain:steamgriddb.com
 domain:store.epicgames.com
 domain:studio.youtube.com
+domain:supporter-files.nexus-cdn.com
 domain:t.co
 domain:telegra.ph
 domain:tellapart.com

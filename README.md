@@ -12,6 +12,7 @@
 - Twitter & X
 - Discord
 - Notion
+- fastdl
 ### Потоковый контент
 - YouTube & Google Video
 - SoundCloud
@@ -60,6 +61,7 @@
 - GooglePlay
 - Logitech
 - Backloggd
+- Nexus
 ### Прочее
 - CloudFlare
 - ProstoVPN

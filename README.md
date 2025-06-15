@@ -5,7 +5,7 @@
 
 **CF IPs-v4** – список IPv4 адресов CloudFlare.
 
-**domains.yaml** – **list**, сконвертированный для импорта в Clash Verse.
+**domains.yaml** – **list**, сконвертированный для импорта в Clash Verge.
 
 ## Внутри **list**
 ### Социальные сети и мессенджеры

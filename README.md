@@ -5,7 +5,7 @@
 
 [**CF IPs-v4**](https://github.com/rknbypass/blocked-domains-list/blob/main/CF%20IPs-v4) – список IPv4 адресов CloudFlare.
 
-## Внутри **list**
+## Внутри [**list**](https://github.com/rknbypass/blocked-domains-list/blob/main/list)
 ### Социальные сети и мессенджеры
 - Instagram & Threads
 - Facebook & Messenger

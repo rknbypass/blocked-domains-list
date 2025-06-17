@@ -40,7 +40,7 @@
 - island-of-pleasure
 ### ИИ
 - OpenAI & ChatGPT
-- Google Gemin
+- Google Gemini
 - Microsoft Copilot
 ### Онлайн-сервисы и маркетинг
 - Linktree
@@ -72,3 +72,4 @@
 - PhareIO
 - IGDB
 - virtualbox
+- DeepL

@@ -1,0 +1,25 @@
+proxies:
+  - name: "VLESS" # Имя профиля, можно изменить на свое.
+    type: vless
+    server:  # Адрес сервера, изменить на свой.
+    port: 443
+    uuid: "" # User ID, изменить на свой.
+    flow: xtls-rprx-vision
+    network: tcp
+    udp: true
+    tls: true
+    servername: "" # SNI, изменить на свой.
+    reality-opts:
+      public-key: "" # Public Key, изменить на свой.
+      short-id: "" # ShortID, изменить на свой.
+    client-fingerprint:  # Fingerprint, изменить на свой.
+
+proxy-groups:
+  - name: "PROXY"
+    type: select
+    proxies:
+      - "VLESS"
+      - "DIRECT"
+rules:
+  # Вставить свои маршруты.
+  - MATCH,DIRECT

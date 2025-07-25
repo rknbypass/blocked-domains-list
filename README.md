@@ -5,6 +5,8 @@
 
 [**CF IPs-v4**](https://github.com/rknbypass/blocked-domains-list/blob/main/CF%20IPs-v4) – список IPv4 адресов CloudFlare.
 
+[**VLESS.yaml**](https://github.com/rknbypass/blocked-domains-list/blob/main/VLESS.yaml) – шаблон конфига для Clash Verge.
+
 ## Внутри [**list**](https://github.com/rknbypass/blocked-domains-list/blob/main/list)
 ### Социальные сети и мессенджеры
 - Instagram & Threads

@@ -37,6 +37,7 @@
 
 # DeviantArt
   - DOMAIN-SUFFIX,da-files.com,PROXY
+  - DOMAIN-SUFFIX,deviantart.com,PROXY
   - DOMAIN-SUFFIX,deviantart.net,PROXY
   - DOMAIN-SUFFIX,st.deviantart.net,PROXY
 
@@ -279,6 +280,10 @@
   - DOMAIN-SUFFIX,ytimg.l.google.com,PROXY
   - DOMAIN-SUFFIX,ytkids.app.goo.gl,PROXY
 
+# Wixmp
+  - DOMAIN-SUFFIX,images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com,PROXY
+  - DOMAIN-SUFFIX,wixmp.com,PROXY
+
 # Other
   - DOMAIN-SUFFIX,1fichier.com,PROXY
   - DOMAIN-SUFFIX,4pda.to,PROXY
@@ -291,7 +296,6 @@
   - DOMAIN-SUFFIX,clck.ru,PROXY
   - DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
   - DOMAIN-SUFFIX,deepl.com,PROXY
-  - DOMAIN-SUFFIX,deviantart.com,PROXY
   - DOMAIN-SUFFIX,dodi-repacks.site,PROXY
   - DOMAIN-SUFFIX,download.nvidia.com,PROXY
   - DOMAIN-SUFFIX,fitgirl-repacks.site,PROXY
@@ -300,7 +304,6 @@
   - DOMAIN-SUFFIX,habr.com,PROXY
   - DOMAIN-SUFFIX,hostingkartinok.com,PROXY
   - DOMAIN-SUFFIX,spotify.com,PROXY
-  - DOMAIN-SUFFIX,images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com,PROXY
   - DOMAIN-SUFFIX,island-of-pleasure.site,PROXY
   - DOMAIN-SUFFIX,kinozal.tv,PROXY
   - DOMAIN-SUFFIX,linktr.ee,PROXY
@@ -327,6 +330,5 @@
   - DOMAIN-SUFFIX,thepiratebay.org,PROXY
   - DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
   - DOMAIN-SUFFIX,virtualbox.org,PROXY
-  - DOMAIN-SUFFIX,wixmp.com,PROXY
   - DOMAIN-SUFFIX,xfree.com,PROXY
   - DOMAIN-SUFFIX,xbox.com/sv-se/play,PROXY

@@ -1,0 +1,335 @@
+payload:
+# 1337x
+  - DOMAIN-SUFFIX,1337x.gd,PROXY
+  - DOMAIN-SUFFIX,1337x.is,PROXY
+  - DOMAIN-SUFFIX,1337x.st,PROXY
+  - DOMAIN-SUFFIX,1337x.to,PROXY
+  - DOMAIN-SUFFIX,1337x.tw,PROXY
+  - DOMAIN-SUFFIX,1337xto.to,PROXY
+  - DOMAIN-SUFFIX,1337xx.to,PROXY
+  - DOMAIN-SUFFIX,x1337x.eu,PROXY
+  - DOMAIN-SUFFIX,x1337x.se,PROXY
+  - DOMAIN-SUFFIX,x1337x.ws,PROXY
+
+# AMD
+  - DOMAIN-SUFFIX,amd.com,PROXY
+  - DOMAIN-SUFFIX,amd.com.cn,PROXY
+  - DOMAIN-SUFFIX,amdfanstore.com,PROXY
+
+# Backloggd
+  - DOMAIN-SUFFIX,backloggd-s3.b-cdn.net,PROXY
+  - DOMAIN-SUFFIX,backloggd-static-assets.b-cdn.net,PROXY
+  - DOMAIN-SUFFIX,backloggd.b-cdn.net,PROXY
+  - DOMAIN-SUFFIX,backloggd.com,PROXY
+  - DOMAIN-SUFFIX,cdn.intergient.com,PROXY
+
+# ChatGPT
+  - DOMAIN-SUFFIX,auth.openai.com,PROXY
+  - DOMAIN-SUFFIX,auth0.openai.com,PROXY
+  - DOMAIN-SUFFIX,chat.com,PROXY
+  - DOMAIN-SUFFIX,chatgpt.com,PROXY
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud,PROXY
+  - DOMAIN-SUFFIX,host.livekit.cloud,PROXY
+  - DOMAIN-SUFFIX,intercomcdn.com,PROXY
+  - DOMAIN-SUFFIX,oaistatic.com,PROXY
+  - DOMAIN-SUFFIX,oaiusercontent.com,PROXY
+  - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net,PROXY
+  - DOMAIN-SUFFIX,sora.com,PROXY
+
+# DeviantArt
+  - DOMAIN-SUFFIX,da-files.com,PROXY
+  - DOMAIN-SUFFIX,deviantart.com,PROXY
+  - DOMAIN-SUFFIX,deviantart.net,PROXY
+  - DOMAIN-SUFFIX,st.deviantart.net,PROXY
+
+# Discord
+  - DOMAIN-SUFFIX,cdn.discordapp.com,PROXY
+  - DOMAIN-SUFFIX,dis.gd,PROXY
+  - DOMAIN-SUFFIX,discord-activities.com,PROXY
+  - DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,discord.co,PROXY
+  - DOMAIN-SUFFIX,discord.com,PROXY
+  - DOMAIN-SUFFIX,discord.design,PROXY
+  - DOMAIN-SUFFIX,discord.dev,PROXY
+  - DOMAIN-SUFFIX,discord.gg,PROXY
+  - DOMAIN-SUFFIX,discord.gift,PROXY
+  - DOMAIN-SUFFIX,discord.gifts,PROXY
+  - DOMAIN-SUFFIX,discord.media,PROXY
+  - DOMAIN-SUFFIX,discord.new,PROXY
+  - DOMAIN-SUFFIX,discord.store,PROXY
+  - DOMAIN-SUFFIX,discord.tools,PROXY
+  - DOMAIN-SUFFIX,discordactivities.com,PROXY
+  - DOMAIN-SUFFIX,discordapp.com,PROXY
+  - DOMAIN-SUFFIX,discordapp.io,PROXY
+  - DOMAIN-SUFFIX,discordapp.net,PROXY
+  - DOMAIN-SUFFIX,discordcdn.com,PROXY
+  - DOMAIN-SUFFIX,discordmerch.com,PROXY
+  - DOMAIN-SUFFIX,discordpartygames.com,PROXY
+  - DOMAIN-SUFFIX,discordsays.com,PROXY
+  - DOMAIN-SUFFIX,discordstatus.com,PROXY
+  - DOMAIN-SUFFIX,gateway.discord.gg,PROXY
+  - DOMAIN-SUFFIX,images-ext-1.discordapp.net,PROXY
+  - DOMAIN-SUFFIX,media.discordapp.net,PROXY
+  - DOMAIN-SUFFIX,watchanimeattheoffice.com,PROXY
+
+# Epicgames
+  - DOMAIN-SUFFIX,epicgames.com,PROXY
+  - DOMAIN-SUFFIX,store.epicgames.com,PROXY
+
+# Facebook
+  - DOMAIN-SUFFIX,facebook.com,PROXY
+  - DOMAIN-SUFFIX,fb.com,PROXY
+  - DOMAIN-SUFFIX,fbcdn.net,PROXY
+
+# Fastdl
+  - DOMAIN-SUFFIX,fastdl.app,PROXY
+  - DOMAIN-SUFFIX,media.fastdl.app,PROXY
+
+# Futurecdn
+  - DOMAIN-SUFFIX,cdn.mos.cms.futurecdn.net,PROXY
+  - DOMAIN-SUFFIX,cms.futurecdn.net,PROXY
+  - DOMAIN-SUFFIX,futurecdn.net,PROXY
+  - DOMAIN-SUFFIX,mos.cms.futurecdn.net,PROXY
+
+# Google Gemini
+  - DOMAIN-SUFFIX,bard.google.com,PROXY
+  - DOMAIN-SUFFIX,gemini.google.com,PROXY
+
+# igdb
+  - DOMAIN-SUFFIX,igdb.com,PROXY
+  - DOMAIN-SUFFIX,images.igdb.com,PROXY
+
+# Instagram
+  - DOMAIN-SUFFIX,achat-followers-instagram.com,PROXY
+  - DOMAIN-SUFFIX,acheter-followers-instagram.com,PROXY
+  - DOMAIN-SUFFIX,acheterdesfollowersinstagram.com,PROXY
+  - DOMAIN-SUFFIX,acheterfollowersinstagram.com,PROXY
+  - DOMAIN-SUFFIX,bookstagram.com,PROXY
+  - DOMAIN-SUFFIX,carstagram.com,PROXY
+  - DOMAIN-SUFFIX,cdninstagram.com,PROXY
+  - DOMAIN-SUFFIX,chickstagram.com,PROXY
+  - DOMAIN-SUFFIX,ig.me,PROXY
+  - DOMAIN-SUFFIX,igcdn-photos-e-a.akamaihd.net,PROXY
+  - DOMAIN-SUFFIX,igcdn.com,PROXY
+  - DOMAIN-SUFFIX,igsonar.com,PROXY
+  - DOMAIN-SUFFIX,igtv.com,PROXY
+  - DOMAIN-SUFFIX,imstagram.com,PROXY
+  - DOMAIN-SUFFIX,imtagram.com,PROXY
+  - DOMAIN-SUFFIX,instaadder.com,PROXY
+  - DOMAIN-SUFFIX,instachecker.com,PROXY
+  - DOMAIN-SUFFIX,instafallow.com,PROXY
+  - DOMAIN-SUFFIX,instafollower.com,PROXY
+  - DOMAIN-SUFFIX,instagainer.com,PROXY
+  - DOMAIN-SUFFIX,instagda.com,PROXY
+  - DOMAIN-SUFFIX,instagify.com,PROXY
+  - DOMAIN-SUFFIX,instagmania.com,PROXY
+  - DOMAIN-SUFFIX,instagor.com,PROXY
+  - DOMAIN-SUFFIX,instagram-brand.com,PROXY
+  - DOMAIN-SUFFIX,instagram-engineering.com,PROXY
+  - DOMAIN-SUFFIX,instagram-help.com,PROXY
+  - DOMAIN-SUFFIX,instagram-press.com,PROXY
+  - DOMAIN-SUFFIX,instagram-press.net,PROXY
+  - DOMAIN-SUFFIX,instagram.com,PROXY
+  - DOMAIN-SUFFIX,instagramci.com,PROXY
+  - DOMAIN-SUFFIX,instagramcn.com,PROXY
+  - DOMAIN-SUFFIX,instagramdi.com,PROXY
+  - DOMAIN-SUFFIX,instagramhashtags.net,PROXY
+  - DOMAIN-SUFFIX,instagramhilecim.com,PROXY
+  - DOMAIN-SUFFIX,instagramhilesi.org,PROXY
+  - DOMAIN-SUFFIX,instagramium.com,PROXY
+  - DOMAIN-SUFFIX,instagramizlenme.com,PROXY
+  - DOMAIN-SUFFIX,instagramkusu.com,PROXY
+  - DOMAIN-SUFFIX,instagramlogin.com,PROXY
+  - DOMAIN-SUFFIX,instagramm.com,PROXY
+  - DOMAIN-SUFFIX,instagramn.com,PROXY
+  - DOMAIN-SUFFIX,instagrampartners.com,PROXY
+  - DOMAIN-SUFFIX,instagramphoto.com,PROXY
+  - DOMAIN-SUFFIX,instagramq.com,PROXY
+  - DOMAIN-SUFFIX,instagramsepeti.com,PROXY
+  - DOMAIN-SUFFIX,instagramstatic.com,PROXY
+  - DOMAIN-SUFFIX,instagramtakipcisatinal.net,PROXY
+  - DOMAIN-SUFFIX,instagramtakiphilesi.com,PROXY
+  - DOMAIN-SUFFIX,instagramtips.com,PROXY
+  - DOMAIN-SUFFIX,instagramtr.com,PROXY
+  - DOMAIN-SUFFIX,instagran.com,PROXY
+  - DOMAIN-SUFFIX,instagranm.com,PROXY
+  - DOMAIN-SUFFIX,instagrem.com,PROXY
+  - DOMAIN-SUFFIX,instagrm.com,PROXY
+  - DOMAIN-SUFFIX,instagtram.com,PROXY
+  - DOMAIN-SUFFIX,instagy.com,PROXY
+  - DOMAIN-SUFFIX,instamgram.com,PROXY
+  - DOMAIN-SUFFIX,instangram.com,PROXY
+  - DOMAIN-SUFFIX,instanttelegram.com,PROXY
+  - DOMAIN-SUFFIX,instaplayer.net,PROXY
+  - DOMAIN-SUFFIX,instastyle.tv,PROXY
+  - DOMAIN-SUFFIX,instgram.com,PROXY
+  - DOMAIN-SUFFIX,intagram.com,PROXY
+  - DOMAIN-SUFFIX,intagrm.com,PROXY
+  - DOMAIN-SUFFIX,intgram.com,PROXY
+  - DOMAIN-SUFFIX,kingstagram.com,PROXY
+  - DOMAIN-SUFFIX,lnstagram-help.com,PROXY
+  - DOMAIN-SUFFIX,messenger.com,PROXY
+  - DOMAIN-SUFFIX,oninstagram.com,PROXY
+  - DOMAIN-SUFFIX,online-instagram.com,PROXY
+  - DOMAIN-SUFFIX,onlineinstagram.com,PROXY
+  - DOMAIN-SUFFIX,periscope.tv,PROXY
+  - DOMAIN-SUFFIX,pscp.tv,PROXY
+  - DOMAIN-SUFFIX,theinstagramhack.com,PROXY
+  - DOMAIN-SUFFIX,threads.net,PROXY
+  - DOMAIN-SUFFIX,web-instagram.net,PROXY
+
+# kappa.lol & mirrors
+  - DOMAIN-SUFFIX,femboy.beauty,PROXY
+  - DOMAIN-SUFFIX,gachi.gay,PROXY
+  - DOMAIN-SUFFIX,i.supa.codes,PROXY
+  - DOMAIN-SUFFIX,kappa.lol,PROXY
+
+# Logitech
+  - DOMAIN-SUFFIX,logi.com,PROXY
+  - DOMAIN-SUFFIX,logicool.co.jp,PROXY
+  - DOMAIN-SUFFIX,logicoolg.com,PROXY
+  - DOMAIN-SUFFIX,logitech.biz,PROXY
+  - DOMAIN-SUFFIX,logitech.com,PROXY
+  - DOMAIN-SUFFIX,logitech.com.cn,PROXY
+  - DOMAIN-SUFFIX,logitech.fr,PROXY
+  - DOMAIN-SUFFIX,logitech.io,PROXY
+  - DOMAIN-SUFFIX,logitechg.com,PROXY
+  - DOMAIN-SUFFIX,logitechg.com.cn,PROXY
+  - DOMAIN-SUFFIX,logitechg.fr,PROXY
+  - DOMAIN-SUFFIX,logitechio.com.cn,PROXY
+  - DOMAIN-SUFFIX,worldsfastestgamer.net,PROXY
+
+# Nexus
+  - DOMAIN-SUFFIX,nexus-cdn.com,PROXY
+  - DOMAIN-SUFFIX,nexusmods.com,PROXY
+  - DOMAIN-SUFFIX,supporter-files.nexus-cdn.com,PROXY
+
+# Notion
+  - DOMAIN-SUFFIX,api.notion.com,PROXY
+  - DOMAIN-SUFFIX,desktop-release.notion-static.com,PROXY
+  - DOMAIN-SUFFIX,exp.notion.so,PROXY
+  - DOMAIN-SUFFIX,identity.notion.so,PROXY
+  - DOMAIN-SUFFIX,img.notionusercontent.com,PROXY
+  - DOMAIN-SUFFIX,notion-static.com,PROXY
+  - DOMAIN-SUFFIX,notion.com,PROXY
+  - DOMAIN-SUFFIX,notion.new,PROXY
+  - DOMAIN-SUFFIX,notion.site,PROXY
+  - DOMAIN-SUFFIX,notion.so,PROXY
+  - DOMAIN-SUFFIX,notionusercontent.com,PROXY
+
+# phare.io
+  - DOMAIN-SUFFIX,app.phare.io,PROXY
+  - DOMAIN-SUFFIX,phare.io,PROXY
+
+# RuTracker
+  - DOMAIN-SUFFIX,rutracker.net,PROXY
+  - DOMAIN-SUFFIX,rutracker.org,PROXY
+  - DOMAIN-SUFFIX,rutracker.wiki,PROXY
+
+# Twitch
+  - DOMAIN-SUFFIX,ext-twitch.tv,PROXY
+  - DOMAIN-SUFFIX,jtvnw.net,PROXY
+  - DOMAIN-SUFFIX,live-video.net,PROXY
+  - DOMAIN-SUFFIX,ttvnw.net,PROXY
+  - DOMAIN-SUFFIX,twitch.tv,PROXY
+  - DOMAIN-SUFFIX,twitchcdn.net,PROXY
+  - DOMAIN-SUFFIX,twitchsvc.net,PROXY
+
+# Twitter
+  - DOMAIN-SUFFIX,ads-twitter.com,PROXY
+  - DOMAIN-SUFFIX,cms-twdigitalassets.com,PROXY
+  - DOMAIN-SUFFIX,tweetdeck.com,PROXY
+  - DOMAIN-SUFFIX,twimg.com,PROXY
+  - DOMAIN-SUFFIX,twitpic.co,PROXY
+  - DOMAIN-SUFFIX,twitter.biz,PROXY
+  - DOMAIN-SUFFIX,twitter.com,PROXY
+  - DOMAIN-SUFFIX,twitter.jp,PROXY
+  - DOMAIN-SUFFIX,twittercommunity.com,PROXY
+  - DOMAIN-SUFFIX,twitterflightschool.com,PROXY
+  - DOMAIN-SUFFIX,twitterinc.com,PROXY
+  - DOMAIN-SUFFIX,twitteroauth.com,PROXY
+  - DOMAIN-SUFFIX,twitterstat.us,PROXY
+  - DOMAIN-SUFFIX,twtrdns.net,PROXY
+  - DOMAIN-SUFFIX,twttr.com,PROXY
+  - DOMAIN-SUFFIX,twttr.net,PROXY
+  - DOMAIN-SUFFIX,twvid.com,PROXY
+  - DOMAIN-SUFFIX,x.com,PROXY
+
+# YouTube
+  - DOMAIN-SUFFIX,ggpht.com,PROXY
+  - DOMAIN-SUFFIX,googleapis.com,PROXY
+  - DOMAIN-SUFFIX,googleusercontent.com,PROXY
+  - DOMAIN-SUFFIX,googlevideo.com,PROXY
+  - DOMAIN-SUFFIX,gvt1.com,PROXY
+  - DOMAIN-SUFFIX,nhacmp3youtube.com,PROXY
+  - DOMAIN-SUFFIX,studio.youtube.com,PROXY
+  - DOMAIN-SUFFIX,withyoutube.com,PROXY
+  - DOMAIN-SUFFIX,youtu.be,PROXY
+  - DOMAIN-SUFFIX,youtube.com,PROXY
+  - DOMAIN-SUFFIX,play.google.com,PROXY
+  - DOMAIN-SUFFIX,video.google.com,PROXY
+  - DOMAIN-SUFFIX,video.l.google.com,PROXY
+  - DOMAIN-SUFFIX,wide-youtube.l.google.com,PROXY
+  - DOMAIN-SUFFIX,yt.be,PROXY
+  - DOMAIN-SUFFIX,yt-video-upload.l.google.com,PROXY
+  - DOMAIN-SUFFIX,youtube-nocookie.com,PROXY
+  - DOMAIN-SUFFIX,youtube-ui.l.google.com,PROXY
+  - DOMAIN-SUFFIX,youtube.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,youtubei.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,ytimg.com,PROXY
+  - DOMAIN-SUFFIX,ytimg.l.google.com,PROXY
+  - DOMAIN-SUFFIX,ytkids.app.goo.gl,PROXY
+
+# Wixmp
+  - DOMAIN-SUFFIX,images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com,PROXY
+  - DOMAIN-SUFFIX,wixmp.com,PROXY
+
+# Other
+  - DOMAIN-SUFFIX,1fichier.com,PROXY
+  - DOMAIN-SUFFIX,4pda.to,PROXY
+  - DOMAIN-SUFFIX,7tv.app,PROXY
+  - DOMAIN-SUFFIX,arhivach.xyz,PROXY
+  - DOMAIN-SUFFIX,aws.amazon.com,PROXY
+  - DOMAIN-SUFFIX,cdn.7tv.app,PROXY
+  - DOMAIN-SUFFIX,cdn.frankerfacez.com,PROXY
+  - DOMAIN-SUFFIX,cdn.iframe.ly,PROXY
+  - DOMAIN-SUFFIX,clck.ru,PROXY
+  - DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
+  - DOMAIN-SUFFIX,deepl.com,PROXY
+  - DOMAIN-SUFFIX,dodi-repacks.site,PROXY
+  - DOMAIN-SUFFIX,download.nvidia.com,PROXY
+  - DOMAIN-SUFFIX,fitgirl-repacks.site,PROXY
+  - DOMAIN-SUFFIX,frankerfacez.com,PROXY
+  - DOMAIN-SUFFIX,gofile.io,PROXY
+  - DOMAIN-SUFFIX,habr.com,PROXY
+  - DOMAIN-SUFFIX,hostingkartinok.com,PROXY
+  - DOMAIN-SUFFIX,spotify.com,PROXY
+  - DOMAIN-SUFFIX,island-of-pleasure.site,PROXY
+  - DOMAIN-SUFFIX,kinozal.tv,PROXY
+  - DOMAIN-SUFFIX,linktr.ee,PROXY
+  - DOMAIN-SUFFIX,metacritic.com,PROXY
+  - DOMAIN-SUFFIX,nnmclub.to,PROXY
+  - DOMAIN-SUFFIX,ntc.party,PROXY
+  - DOMAIN-SUFFIX,nvidia.com,PROXY
+  - DOMAIN-SUFFIX,openode.xyz,PROXY
+  - DOMAIN-SUFFIX,patreon.com,PROXY
+  - DOMAIN-SUFFIX,pornhub.com,PROXY
+  - DOMAIN-SUFFIX,prnt.sc,PROXY
+  - DOMAIN-SUFFIX,prostovpn.org,PROXY
+  - DOMAIN-SUFFIX,radeon.com,PROXY
+  - DOMAIN-SUFFIX,rocketdockiconsskins.web.fc2.com,PROXY
+  - DOMAIN-SUFFIX,ru.download.nvidia.com,PROXY
+  - DOMAIN-SUFFIX,rutor.info,PROXY
+  - DOMAIN-SUFFIX,soundcloud.com,PROXY
+  - DOMAIN-SUFFIX,steamcommunity.com,PROXY
+  - DOMAIN-SUFFIX,steamgriddb.com,PROXY
+  - DOMAIN-SUFFIX,t.co,PROXY
+  - DOMAIN-SUFFIX,telegra.ph,PROXY
+  - DOMAIN-SUFFIX,tellapart.com,PROXY
+  - DOMAIN-SUFFIX,temp-mail.org,PROXY
+  - DOMAIN-SUFFIX,thepiratebay.org,PROXY
+  - DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
+  - DOMAIN-SUFFIX,virtualbox.org,PROXY
+  - DOMAIN-SUFFIX,xfree.com,PROXY
+  - DOMAIN-SUFFIX,xbox.com/sv-se/play,PROXY

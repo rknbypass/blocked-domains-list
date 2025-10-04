@@ -288,6 +288,7 @@
   - DOMAIN-SUFFIX,1fichier.com,PROXY
   - DOMAIN-SUFFIX,4pda.to,PROXY
   - DOMAIN-SUFFIX,7tv.app,PROXY
+  - DOMAIN-SUFFIX,arc.net,PROXY
   - DOMAIN-SUFFIX,arhivach.xyz,PROXY
   - DOMAIN-SUFFIX,aws.amazon.com,PROXY
   - DOMAIN-SUFFIX,cdn.7tv.app,PROXY
@@ -296,6 +297,7 @@
   - DOMAIN-SUFFIX,clck.ru,PROXY
   - DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
   - DOMAIN-SUFFIX,deepl.com,PROXY
+  - DOMAIN-SUFFIX,diabrowser.com,PROXY
   - DOMAIN-SUFFIX,dodi-repacks.site,PROXY
   - DOMAIN-SUFFIX,download.nvidia.com,PROXY
   - DOMAIN-SUFFIX,fitgirl-repacks.site,PROXY

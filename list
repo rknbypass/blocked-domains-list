@@ -16,6 +16,7 @@
   - DOMAIN-SUFFIX,amdfanstore.com,PROXY
 
 # Backloggd
+  - DOMAIN-SUFFIX,backloggd-avatars.b-cdn.net,PROXY
   - DOMAIN-SUFFIX,backloggd-s3.b-cdn.net,PROXY
   - DOMAIN-SUFFIX,backloggd-static-assets.b-cdn.net,PROXY
   - DOMAIN-SUFFIX,backloggd.b-cdn.net,PROXY

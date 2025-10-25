@@ -2,7 +2,7 @@ proxies:
   - name: "VLESS" # Имя профиля, можно изменить на свое.
     type: vless
     server:  # Адрес сервера, изменить на свой.
-    port: 443
+    port: # Порт, изменить на свой.
     uuid: "" # User ID, изменить на свой.
     flow: xtls-rprx-vision
     network: tcp

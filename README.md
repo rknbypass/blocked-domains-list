@@ -1,4 +1,4 @@
-![Logo](https://i.ibb.co/wZFzxrd2/freeinternet.png)
+![Logo](./freeinternet.png)
 
 ## Что за файлы?
 [**list**](https://github.com/rknbypass/blocked-domains-list/blob/main/list) – список неработающих ресурсов для проксирования, сконвертированный для импорта в Clash Verge.  

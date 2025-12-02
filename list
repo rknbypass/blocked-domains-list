@@ -281,6 +281,20 @@
   - DOMAIN-SUFFIX,ytimg.l.google.com,PROXY
   - DOMAIN-SUFFIX,ytkids.app.goo.gl,PROXY
 
+# WhatsApp
+  - DOMAIN-SUFFIX,wa.me,PROXY
+  - DOMAIN-SUFFIX,whatsapp-plus.info,PROXY
+  - DOMAIN-SUFFIX,whatsapp-plus.me,PROXY
+  - DOMAIN-SUFFIX,whatsapp-plus.net,PROXY
+  - DOMAIN-SUFFIX,whatsapp.cc,PROXY
+  - DOMAIN-SUFFIX,whatsapp.com,PROXY
+  - DOMAIN-SUFFIX,whatsapp.info,PROXY
+  - DOMAIN-SUFFIX,whatsapp.net,PROXY
+  - DOMAIN-SUFFIX,whatsapp.org,PROXY
+  - DOMAIN-SUFFIX,whatsapp.tv,PROXY
+  - DOMAIN-SUFFIX,whatsappbrand.com,PROXY
+  - DOMAIN-SUFFIX,web.whatsapp.com,PROXY
+
 # Wixmp
   - DOMAIN-SUFFIX,images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com,PROXY
   - DOMAIN-SUFFIX,wixmp.com,PROXY

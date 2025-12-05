@@ -277,6 +277,11 @@
   - DOMAIN-SUFFIX,twvid.com,PROXY
   - DOMAIN-SUFFIX,x.com,PROXY
 
+# Unsplash
+  - DOMAIN-SUFFIX,images.unsplash.com,PROXY
+  - DOMAIN-SUFFIX,plus.unsplash.com,PROXY
+  - DOMAIN-SUFFIX,unsplash-assets.imgix.net,PROXY
+  - DOMAIN-SUFFIX,unsplash.com,PROXY
 # YouTube
   - DOMAIN-SUFFIX,ggpht.com,PROXY
   - DOMAIN-SUFFIX,googleapis.com,PROXY

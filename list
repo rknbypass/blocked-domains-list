@@ -374,5 +374,6 @@
   - DOMAIN-SUFFIX,thepiratebay.org,PROXY
   - DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
   - DOMAIN-SUFFIX,virtualbox.org,PROXY
+  - DOMAIN-SUFFIX,wiki.aeza.net,PROXY
   - DOMAIN-SUFFIX,xfree.com,PROXY
   - DOMAIN-SUFFIX,xbox.com/sv-se/play,PROXY

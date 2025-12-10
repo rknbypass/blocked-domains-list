@@ -3,7 +3,9 @@
 ## Что за файлы?
 [**list**](https://github.com/rknbypass/blocked-domains-list/blob/main/list) – список неработающих ресурсов для проксирования, сконвертированный для импорта в Clash Verge.  
 
-[**CF IPs-v4**](https://github.com/rknbypass/blocked-domains-list/blob/main/CF%20IPs-v4) – список IPv4 адресов CloudFlare.
+[**IPs-v4 CF**](https://github.com/rknbypass/blocked-domains-list/blob/main/IPs-v4%20CF) – список IPv4 адресов CloudFlare.
+
+[**IPs-v4 TG**](https://github.com/rknbypass/blocked-domains-list/blob/main/IPs-v4%20TG) – список IPv4 адресов CloudFlare.
 
 [**VLESS.yaml**](https://github.com/rknbypass/blocked-domains-list/blob/main/VLESS.yaml) – шаблон конфига для Clash Verge.
 

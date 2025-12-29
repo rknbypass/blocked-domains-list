@@ -348,6 +348,7 @@
   - DOMAIN-SUFFIX,habr.com,PROXY
   - DOMAIN-SUFFIX,hostingkartinok.com,PROXY
   - DOMAIN-SUFFIX,spotify.com,PROXY
+  - DOMAIN-SUFFIX,imagedelivery.net,PROXY
   - DOMAIN-SUFFIX,island-of-pleasure.site,PROXY
   - DOMAIN-SUFFIX,kinozal.tv,PROXY
   - DOMAIN-SUFFIX,linktr.ee,PROXY

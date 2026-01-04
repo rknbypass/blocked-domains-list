@@ -353,6 +353,7 @@
   - DOMAIN-SUFFIX,kinozal.tv,PROXY
   - DOMAIN-SUFFIX,linktr.ee,PROXY
   - DOMAIN-SUFFIX,metacritic.com,PROXY
+  - DOMAIN-SUFFIX,modrinth.com,PROXY
   - DOMAIN-SUFFIX,nnmclub.to,PROXY
   - DOMAIN-SUFFIX,ntc.party,PROXY
   - DOMAIN-SUFFIX,nvidia.com,PROXY

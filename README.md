@@ -5,7 +5,7 @@
 
 [**IPs-v4 CF**](https://github.com/rknbypass/blocked-domains-list/blob/main/IPs-v4%20CF) – список IPv4 адресов CloudFlare.
 
-[**IPs-v4 TG**](https://github.com/rknbypass/blocked-domains-list/blob/main/IPs-v4%20TG) – список IPv4 адресов CloudFlare.
+[**IPs-v4 TG**](https://github.com/rknbypass/blocked-domains-list/blob/main/IPs-v4%20TG) – список IPv4 адресов Telegram.
 
 [**VLESS.yaml**](https://github.com/rknbypass/blocked-domains-list/blob/main/VLESS.yaml) – шаблон конфига для Clash Verge.
 

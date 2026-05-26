@@ -92,8 +92,28 @@
   - DOMAIN-SUFFIX,mos.cms.futurecdn.net,PROXY
 
 # Google Gemini
+  - DOMAIN-SUFFIX,ai.google.dev,PROXY
+  - DOMAIN-SUFFIX,aida.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,aistudio.google.com,PROXY
+  - DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com,PROXY
+  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com,PROXY
   - DOMAIN-SUFFIX,bard.google.com,PROXY
+  - DOMAIN-SUFFIX,deepmind.com,PROXY
+  - DOMAIN-SUFFIX,deepmind.google,PROXY
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com,PROXY
   - DOMAIN-SUFFIX,gemini.google.com,PROXY
+  - DOMAIN-SUFFIX,generativeai.google,PROXY
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,jules.google,PROXY
+  - DOMAIN-SUFFIX,jules.google.com,PROXY
+  - DOMAIN-SUFFIX,labs.google,PROXY
+  - DOMAIN-SUFFIX,makersuite.google.com,PROXY
+  - DOMAIN-SUFFIX,notebooklm.google,PROXY
+  - DOMAIN-SUFFIX,notebooklm.google.com,PROXY
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com,PROXY
 
 # igdb
   - DOMAIN-SUFFIX,igdb.com,PROXY

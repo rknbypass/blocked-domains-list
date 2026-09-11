@@ -102,6 +102,7 @@
   - DOMAIN-SUFFIX,deepmind.com,PROXY
   - DOMAIN-SUFFIX,deepmind.google,PROXY
   - DOMAIN-SUFFIX,geller-pa.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,gemini.google,PROXY
   - DOMAIN-SUFFIX,gemini.google.com,PROXY
   - DOMAIN-SUFFIX,generativeai.google,PROXY
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com,PROXY

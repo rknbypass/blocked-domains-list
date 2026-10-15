@@ -92,6 +92,7 @@
   - DOMAIN-SUFFIX,mos.cms.futurecdn.net,PROXY
 
 # Google Gemini
+  - GEOSITE,google-gemini,PROXY
   - DOMAIN-SUFFIX,ai.google.dev,PROXY
   - DOMAIN-SUFFIX,aida.googleapis.com,PROXY
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,PROXY

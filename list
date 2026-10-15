@@ -268,6 +268,15 @@
   - DOMAIN-SUFFIX,app.phare.io,PROXY
   - DOMAIN-SUFFIX,phare.io,PROXY
 
+# Plex & Metadata (Posters / Covers / Subtitles)
+  - DOMAIN-SUFFIX,fanart.tv,PROXY
+  - DOMAIN-SUFFIX,opensubtitles.com,PROXY
+  - DOMAIN-SUFFIX,opensubtitles.org,PROXY
+  - DOMAIN-SUFFIX,plex.tv,PROXY
+  - DOMAIN-SUFFIX,themoviedb.org,PROXY
+  - DOMAIN-SUFFIX,thetvdb.com,PROXY
+  - DOMAIN-SUFFIX,tmdb.org,PROXY
+
 # RuTracker
   - DOMAIN-SUFFIX,rutracker.net,PROXY
   - DOMAIN-SUFFIX,rutracker.org,PROXY

@@ -282,6 +282,18 @@
   - DOMAIN-SUFFIX,rutracker.org,PROXY
   - DOMAIN-SUFFIX,rutracker.wiki,PROXY
 
+# Steam
+  - DOMAIN,steamcdn-a.akamaihd.net,PROXY
+  - DOMAIN,steamcommunity-a.akamaihd.net,PROXY
+  - DOMAIN,steamstore-a.akamaihd.net,PROXY
+  - DOMAIN,steamuserimages-a.akamaihd.net,PROXY
+  - DOMAIN,steamusercontent-a.akamaihd.net,PROXY
+  - DOMAIN-SUFFIX,steam-chat.com,PROXY
+  - DOMAIN-SUFFIX,steamcommunity.com,PROXY
+  - DOMAIN-SUFFIX,steampowered.com,PROXY
+  - DOMAIN-SUFFIX,steamstatic.com,PROXY
+  - DOMAIN-SUFFIX,steamusercontent.com,PROXY 
+
 # Telegram
   - DOMAIN-SUFFIX,cdn-telegram.org,PROXY
   - DOMAIN-SUFFIX,comments.app,PROXY
@@ -338,6 +350,7 @@
   - DOMAIN-SUFFIX,plus.unsplash.com,PROXY
   - DOMAIN-SUFFIX,unsplash-assets.imgix.net,PROXY
   - DOMAIN-SUFFIX,unsplash.com,PROXY
+
 # YouTube
   - DOMAIN-SUFFIX,ggpht.com,PROXY
   - DOMAIN-SUFFIX,googleapis.com,PROXY

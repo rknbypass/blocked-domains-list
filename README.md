@@ -11,69 +11,78 @@
 
 ## Внутри [**list**](https://github.com/rknbypass/blocked-domains-list/blob/main/list)
 ### Социальные сети и мессенджеры
+- Telegram (включая CDN, t.me, Telegra.ph, Fragment)
+- WhatsApp
+- Discord
+- Twitter & X
 - Instagram & Threads
 - Facebook & Messenger
-- Twitter & X
-- Discord
 - Notion
-- fastdl
-### Потоковый контент
-- YouTube & Google Video
-- SoundCloud
+
+### Потоковый контент, видео и музыка
+- YouTube & Google Video (включая Play Store CDN)
+- Twitch & чат-расширения (7TV, FrankerFaceZ)
+- Netflix & Fast.com
 - Spotify
-- 7TV & FrankerFaceZ
-- PornHUB
-- Xfree
-### Облачные хранилища и файлообменники
-- 1Fichier
-- Gofile
-- Google Cloud Storage
-- i.supa.codes & kappa.lol & gachi.gay & femboy.beauty
-- hostingkartinok.com
-- prnt.sc
-- dropbox
+- SoundCloud
+- Plex и сервисы метаданных (TMDB, TheTVDB, OpenSubtitles, Fanart.tv)
+- Контент для взрослых (Pornhub, Xfree)
+
+### ИИ и онлайн-перевод
+- OpenAI (ChatGPT, Sora)
+- Google Gemini (включая AI Studio, DeepMind, NotebookLM, Labs)
+- Microsoft Copilot
+- DeepL
+
+### Гейминг
+- Steam (клиент, сообщество, CDN) & SteamGridDB
+- Epic Games Store
+- Xbox Cloud Gaming (sv-se)
+- Игровые базы и трекеры (Backloggd, IGDB, Metacritic)
+- Моддинг (Nexus Mods, Modrinth)
+
 ### Торренты и варезные ресурсы
-- 1337x
 - Rutracker
 - Rutor
 - NNMClub
+- 1337x
 - The Pirate Bay
-- fitgirl-repacks
-- dodi-repacks
-- kinozal
-- island-of-pleasure
-### ИИ
-- OpenAI & ChatGPT
-- Google Gemini
-- Microsoft Copilot
-### Онлайн-сервисы и маркетинг
-- Linktree
-- Patreon
-- Temp Mail
-### Форумы
+- Kinozal
+- FitGirl Repacks
+- DODI Repacks
+- Island of Pleasure
+
+### Облачные хранилища, хостинги медиа и загрузчики
+- Gofile
+- 1Fichier
+- Fastdl
+- Unsplash
+- DeviantArt & Wixmp
+- Скриншоты и картинки (prnt.sc, hostingkartinok.com)
+- i.supa.codes & зеркала
+
+### Софт, браузеры и вендоры
+- Nvidia (драйверы и сайт)
+- AMD & Radeon
+- Logitech & Logicool
+- VirtualBox
+- Браузеры Arc и Dia
+
+### Форумы и сообщества
+- 4PDA
+- Habr
 - ntc.party
 - Arhivach
-- Habr
 - Openode
-- 4pda
-### Гейминг
-- xbox (sv-se)
-- EpicGames
-- SteamGriddb
-- Nvidia
-- AMD & Radeon
-- GooglePlay
-- Logitech
-- Backloggd
-- Nexus
-### Прочее
-- CloudFlare
+
+### Инфраструктура, сервисы и прочее
+- Cloudflare (включая Image Delivery)
+- Amazon Web Services (AWS)
 - ProstoVPN
-- clck
-- Telegraph
-- DeviantArt
-- Metacritic
-- PhareIO
-- IGDB
-- virtualbox
-- DeepL
+- Patreon
+- Linktree
+- Phare.io
+- Temp Mail
+- clck.ru
+- FutureCDN & Iframely
+- Aeza Wiki

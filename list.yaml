@@ -328,6 +328,7 @@
 # Twitter
   - DOMAIN-SUFFIX,ads-twitter.com,PROXY
   - DOMAIN-SUFFIX,cms-twdigitalassets.com,PROXY
+  - DOMAIN-SUFFIX,t.co,PROXY
   - DOMAIN-SUFFIX,tweetdeck.com,PROXY
   - DOMAIN-SUFFIX,twimg.com,PROXY
   - DOMAIN-SUFFIX,twitpic.co,PROXY
@@ -438,12 +439,12 @@
   - DOMAIN-SUFFIX,soundcloud.com,PROXY
   - DOMAIN-SUFFIX,steamcommunity.com,PROXY
   - DOMAIN-SUFFIX,steamgriddb.com,PROXY
-  - DOMAIN-SUFFIX,t.co,PROXY
   - DOMAIN-SUFFIX,telegra.ph,PROXY
   - DOMAIN-SUFFIX,tellapart.com,PROXY
   - DOMAIN-SUFFIX,temp-mail.org,PROXY
   - DOMAIN-SUFFIX,thepiratebay.org,PROXY
   - DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
+  - DOMAIN-SUFFIX,velpaper.com,PROXY
   - DOMAIN-SUFFIX,virtualbox.org,PROXY
   - DOMAIN-SUFFIX,wiki.aeza.net,PROXY
   - DOMAIN-SUFFIX,xfree.com,PROXY

@@ -9,7 +9,7 @@
 
 [**VLESS.yaml**](https://github.com/rknbypass/blocked-domains-list/blob/main/VLESS.yaml) – шаблон конфига для Clash Verge.
 
-## Внутри [**list**](https://github.com/rknbypass/blocked-domains-list/blob/main/list)
+## Внутри [**list**](https://github.com/rknbypass/blocked-domains-list/blob/main/list.yaml)
 ### Социальные сети и мессенджеры
 - Telegram (включая CDN, t.me, Telegra.ph, Fragment)
 - WhatsApp
